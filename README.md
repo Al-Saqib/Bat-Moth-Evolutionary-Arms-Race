@@ -42,8 +42,8 @@ To use this project, follow these steps:
 1. GA_With_Fitness.ipynb: Contains the implementation of the genetic algorithm used to simulate the co-evolution of bats and moths.
 2. Complete_Sim_With_Graphs.ipynb: Contains the complete simulation, including graphical representations of the results.
 
+\vspace
 
-\linespace
 If you would like to contribute to this project, please follow these guidelines:
 1. Fork the repository.
 2. Create a new branch with a descriptive name.
