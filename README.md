@@ -43,7 +43,7 @@ To use this project, follow these steps:
 2. Complete_Sim_With_Graphs.ipynb: Contains the complete simulation, including graphical representations of the results.
 
 
-
+\linespace
 If you would like to contribute to this project, please follow these guidelines:
 1. Fork the repository.
 2. Create a new branch with a descriptive name.
