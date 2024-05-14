@@ -21,13 +21,13 @@ pip install numpy matplotlib
 
 
 Project Structure
-GA_With_Fitness.ipynb: Contains the implementation of the genetic algorithm used to simulate the co-evolution of bats and moths.
-Complete_Sim_With_Graphs.ipynb: Contains the complete simulation, including graphical representations of the results.
-Al_Saqib - AdapSys - Project_1.pdf: Detailed project report outlining the methodology, results, and conclusions of the study.
-Contributing
+1. GA_With_Fitness.ipynb: Contains the implementation of the genetic algorithm used to simulate the co-evolution of bats and moths.
+3. Complete_Sim_With_Graphs.ipynb: Contains the complete simulation, including graphical representations of the results.
+
+
 If you would like to contribute to this project, please follow these guidelines:
 
-Fork the repository.
+1. Fork the repository.
 Create a new branch with a descriptive name.
 Make your changes and commit them with clear and concise messages.
 Push your changes to your forked repository.
