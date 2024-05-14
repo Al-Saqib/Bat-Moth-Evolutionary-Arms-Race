@@ -22,27 +22,26 @@ pip install numpy matplotlib
 ## Usage
 To use this project, follow these steps:
 1. Clone the repository to your local machine:
-2. ```bash
+    ```bash
    git clone https://github.com/yourusername/your-repo-name.git
    ```
-
-
-Navigate to the project directory:
-bash
-Copy code
-cd your-repo-name
-Open the Jupyter Notebooks:
-bash
-Copy code
-jupyter notebook GA_With_Fitness.ipynb
-jupyter notebook Complete_Sim_With_Graphs.ipynb
-Run the cells in the notebooks sequentially to simulate the bat-moth interactions under different lighting conditions.
+2. Navigate to the project directory:
+   ```bash
+   cd your-repo-name
+   ```
+3. Open the Jupyter Notebooks:
+   ```bash
+   jupyter notebook GA_With_Fitness.ipynb
+   jupyter notebook Complete_Sim_With_Graphs.ipynb
+   ```
+4. Run the cells in the notebooks sequentially to simulate the bat-moth interactions under different lighting conditions.
 
 
 
 ## Project Structure
 1. GA_With_Fitness.ipynb: Contains the implementation of the genetic algorithm used to simulate the co-evolution of bats and moths.
 2. Complete_Sim_With_Graphs.ipynb: Contains the complete simulation, including graphical representations of the results.
+
 
 
 If you would like to contribute to this project, please follow these guidelines:
